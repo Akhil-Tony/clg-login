@@ -1,0 +1,16 @@
+{
+  "name": "Cannalogic Course",
+  "short_name": "Cannalogic",
+  "description": "Cannalogic Course Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#115e59",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
